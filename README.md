@@ -1,15 +1,35 @@
-### Hi there 👋
+# Hey there, I'm [Wandhekar Rutika Rajendra] 👋
+
+Aspiring [Your Field] | Passionate Learner | Open Source Enthusiast
+
+🌱 I'm a recent graduate in [BE-IT] from [smt. kashibai navale college of engineering, pune].
+🚀 Exploring new technologies and developing software solutions is my passion.
+💡 Always eager to learn and contribute to open-source projects.
+
+## 🔧 Technologies & Tools
+
+![](https://img.shields.io/badge/OS-[Your OS]-[Your OS color]?style=flat-square&logo=[Your OS Logo]&logoColor=white)
+![](https://img.shields.io/badge/Editor-[Your Editor]-[Your Editor color]?style=flat-square&logo=[Your Editor Logo]&logoColor=white)
+![](https://img.shields.io/badge/-HTML-[HTML color]?style=flat-square&logo=HTML5&logoColor=white)
+![](https://img.shields.io/badge/-CSS-[CSS color]?style=flat-square&logo=CSS3&logoColor=white)
+![](https://img.shields.io/badge/-JavaScript-[JS color]?style=flat-square&logo=JavaScript&logoColor=white)
+<!-- Add more badges for your skills -->
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-[Your LinkedIn]-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/[https://www.linkedin.com/in/rutika-wandhekar-45a38b220])
+
+## 🚀 Projects
 
 
-My name is **Wandhekar Rutika Rajendra** and I am a ✨ _fresher_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤝 Open Source Contributions
 
-Here are some ideas to get you started:
+- [Practice](https://github.com/WandhekarRutikaRajendra/[Practice]): I have done some basic code here of pull and push.
+- [Repository Name](https://github.com/[Org or Username]/[Repository]): Short description of your contribution.
+<!-- Add more contributions with descriptions -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Java full stack developer course
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: rutikawandhekar.skncoe.it@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 📫 How to Reach Me
+
+Feel free to reach out through [email](mailto:rutikawandhekar.skncoe.it@gmail.com).
+
+⭐️ Show some love by starring some of my repositories!
