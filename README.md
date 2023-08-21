@@ -1,6 +1,8 @@
 # Hey there, I'm [Wandhekar Rutika Rajendra] 👋
 
 📚 Aspiring Fullstack Developer | 🌱 Learning and Growing | Passionate Learner
+![Profile Photo](https://github.com/yourusername/yourrepository/raw/main/profile-photo.png)
+
 
 ## 🎓 Academic Background
 
