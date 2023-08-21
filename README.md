@@ -2,7 +2,7 @@
 
 Aspiring [Your Field] | Passionate Learner | Open Source Enthusiast
 
-🌱 I'm a recent graduate in BE-IT from [smt. kashibai navale college of engineering, pune].
+🌱 I'm a recent graduate in BE-IT from smt. kashibai navale college of engineering, pune.
 🚀 Exploring new technologies and developing software solutions is my passion.
 💡 Always eager to learn and contribute to open-source projects.
 
@@ -24,7 +24,7 @@ Aspiring [Your Field] | Passionate Learner | Open Source Enthusiast
 
 ## 🤝 Open Source Contributions
 
-- [Practice](https://github.com/WandhekarRutikaRajendra/[Practice]): I have done some basic code here of pull and push.
+- [Practice](https://github.com/WandhekarRutikaRajendra/Practice.git): I have done some basic code here of pull and push.
 - [Repository Name](https://github.com/[Org or Username]/[Repository]): Short description of your contribution.
 <!-- Add more contributions with descriptions -->
 
