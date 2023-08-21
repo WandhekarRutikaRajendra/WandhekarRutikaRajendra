@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**WandhekarRutikaRajendra/WandhekarRutikaRajendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Wandhekar Rutika Rajendra** and I am a ✨ _fresher_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
