@@ -3,6 +3,14 @@
 📚 Aspiring Fullstack Developer | 🌱 Learning and Growing | Passionate Learner
 ![profile](https://github.com/WandhekarRutikaRajendra/WandhekarRutikaRajendra/assets/142422795/8cf07190-2593-4651-a384-ab506f5863b4)
 
+![Profile Photo](https://img.shields.io/badge/-Profile%20Photo-https://github.com/WandhekarRutikaRajendra/WandhekarRutikaRajendra/assets/142422795/8cf07190-2593-4651-a384-ab506f5863b4?style=flat-square&logo=data:image/png;base64,Base64EncodedImage)
+
+import base64
+
+with open('resized-profile-photo.png', 'rb') as image_file:
+    base64_encoded_image = base64.b64encode(image_file.read()).decode('utf-8')
+    print(base64_encoded_image)
+
 
 
 ## 🎓 Academic Background
