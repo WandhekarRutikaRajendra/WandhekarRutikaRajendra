@@ -18,8 +18,10 @@ I'm a recent graduate in BE-IT from smt. kashibai navale college of engineering,
 
 ### 🚀 Projects
 
-- **Text Reader For Visually Imapaired Person:**
-- Developed a text reader for visually impaired individuals using OpenCV and image processing. Implemented OCR algorithms to extract and recognize text from images. Designed a user-friendly interface and collaborated with a team for testing and optimization..
+**Text Reader For Visually Imapaired Person:**
+- Developed a text reader for visually impaired individuals using OpenCV and image processing.
+- Implemented OCR algorithms to extract and recognize text from images.
+- Designed a user-friendly interface and collaborated with a team for testing and optimization..
 
 
 ### 🌐 Connect with Me
