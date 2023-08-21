@@ -6,20 +6,17 @@ Aspiring [Your Field] | Passionate Learner | Open Source Enthusiast
 🚀 Exploring new technologies and developing software solutions is my passion.
 💡 Always eager to learn and contribute to open-source projects.
 
-## 🔧 Technical Skills
+## 💼 Technical Skills
 
-![](https://img.shields.io/badge/OS-[Your OS]-[Your OS color]?style=flat-square&logo=[Your OS Logo]&logoColor=white)
-![](https://img.shields.io/badge/Editor-[Your Editor]-[Your Editor color]?style=flat-square&logo=[Your Editor Logo]&logoColor=white)
-![](https://img.shields.io/badge/-HTML-[HTML color]?style=flat-square&logo=HTML5&logoColor=white)
-![](https://img.shields.io/badge/-CSS-[CSS color]?style=flat-square&logo=CSS3&logoColor=white)
-![](https://img.shields.io/badge/-JavaScript-[JS color]?style=flat-square&logo=JavaScript&logoColor=white)
-<!-- Add more badges for your skills -->
++ Programming: Java, HTML, CSS
++ Database: SQL
++ Version Control: Git
 
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-[https://www.linkedin.com/in/rutika-wandhekar-45a38b220]-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/[https://www.linkedin.com/in/rutika-wandhekar-45a38b220])
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-[Your LinkedIn]-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/[Your LinkedIn])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-https://www.linkedin.com/in/rutika-wandhekar-45a38b220-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/rutika-wandhekar-45a38b220)
 [![Portfolio](https://img.shields.io/badge/Portfolio-[Your Portfolio]-green?style=flat-square)](https://www.[yourportfolio].com)
 [![Twitter](https://img.shields.io/badge/Twitter-[Your Twitter]-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/[Your Twitter])
 
