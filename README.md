@@ -5,7 +5,7 @@
 
 ### 🎓 Academic Background
 
-🌱 I'm a recent graduate in BE-IT from smt. kashibai navale college of engineering, pune [2023].
+I'm a recent graduate in BE-IT from smt. kashibai navale college of engineering, pune [2023].
 🚀 Exploring new technologies and developing software solutions is my passion.
 💡 Always eager to learn and contribute to open-source projects.
 
