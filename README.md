@@ -2,7 +2,7 @@
 
 Aspiring [Your Field] | Passionate Learner | Open Source Enthusiast
 
-🌱 I'm a recent graduate in [BE-IT] from [smt. kashibai navale college of engineering, pune].
+🌱 I'm a recent graduate in BE-IT from [smt. kashibai navale college of engineering, pune].
 🚀 Exploring new technologies and developing software solutions is my passion.
 💡 Always eager to learn and contribute to open-source projects.
 
