@@ -13,12 +13,9 @@ Aspiring [Your Field] | Passionate Learner | Open Source Enthusiast
 + Version Control: Git
 
 ## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rutika-wandhekar-45a38b220)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-[https://www.linkedin.com/in/rutika-wandhekar-45a38b220]-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/[https://www.linkedin.com/in/rutika-wandhekar-45a38b220])
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-https://www.linkedin.com/in/rutika-wandhekar-45a38b220-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/rutika-wandhekar-45a38b220)
-[![Portfolio](https://img.shields.io/badge/Portfolio-[Your Portfolio]-green?style=flat-square)](https://www.[yourportfolio].com)
-[![Twitter](https://img.shields.io/badge/Twitter-[Your Twitter]-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/[Your Twitter])
 
 
 ## 🚀 Projects
