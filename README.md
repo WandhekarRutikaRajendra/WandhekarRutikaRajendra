@@ -13,7 +13,7 @@
 *Duration: Jan 2022 - March 2022*
 
 🔧 Technologies: 
-![JAVA](https://img.shields.io/badge/-Technology1-Color1?style=flat-square&logo=Logo1&logoColor=white)
+![JAVA](https://img.shields.io/badge/-JAVA-Color1?style=flat-square&logo=Logo1&logoColor=white)
 ![SQL](https://img.shields.io/badge/-Technology2-Color2?style=flat-square&logo=Logo2&logoColor=white)
 
 - Collaborated with a cross-functional team on [specific project/task].
