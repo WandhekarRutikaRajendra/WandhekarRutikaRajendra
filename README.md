@@ -6,7 +6,7 @@ Aspiring [Your Field] | Passionate Learner | Open Source Enthusiast
 🚀 Exploring new technologies and developing software solutions is my passion.
 💡 Always eager to learn and contribute to open-source projects.
 
-## 🔧 Technologies & Tools
+## 🔧 Technical Skills
 
 ![](https://img.shields.io/badge/OS-[Your OS]-[Your OS color]?style=flat-square&logo=[Your OS Logo]&logoColor=white)
 ![](https://img.shields.io/badge/Editor-[Your Editor]-[Your Editor color]?style=flat-square&logo=[Your Editor Logo]&logoColor=white)
@@ -17,7 +17,12 @@ Aspiring [Your Field] | Passionate Learner | Open Source Enthusiast
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-[Your LinkedIn]-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/[https://www.linkedin.com/in/rutika-wandhekar-45a38b220])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-[https://www.linkedin.com/in/rutika-wandhekar-45a38b220]-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/[https://www.linkedin.com/in/rutika-wandhekar-45a38b220])
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-[Your LinkedIn]-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/[Your LinkedIn])
+[![Portfolio](https://img.shields.io/badge/Portfolio-[Your Portfolio]-green?style=flat-square)](https://www.[yourportfolio].com)
+[![Twitter](https://img.shields.io/badge/Twitter-[Your Twitter]-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/[Your Twitter])
+
 
 ## 🚀 Projects
 
