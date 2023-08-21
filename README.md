@@ -25,8 +25,6 @@ Aspiring [Your Field] | Passionate Learner | Open Source Enthusiast
 ## 🤝 Open Source Contributions
 
 - [Practice](https://github.com/WandhekarRutikaRajendra/Practice.git): I have done some basic code here of pull and push.
-- [Repository Name](https://github.com/[Org or Username]/[Repository]): Short description of your contribution.
-<!-- Add more contributions with descriptions -->
 
 ## 📫 How to Reach Me
 
