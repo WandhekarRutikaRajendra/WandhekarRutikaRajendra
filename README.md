@@ -33,8 +33,6 @@ I'm a recent graduate in BE-IT from smt. kashibai navale college of engineering,
 [![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-orange?style=flat-square&logo=instagram)](https://www.instagram.com/rutika7376/)
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-orange?style=for-the-badge&logo=instagram)](https://www.instagram.com/rutika7376/)
-
 ### 🤝 Open Source Contributions
 
 - [Practice](https://github.com/WandhekarRutikaRajendra/Practice.git): I have done some basic code here of pull and push.
