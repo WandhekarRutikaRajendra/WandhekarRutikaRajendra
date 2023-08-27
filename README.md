@@ -30,6 +30,9 @@ I'm a recent graduate in BE-IT from smt. kashibai navale college of engineering,
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rutika-wandhekar-45a38b220)
 
+[![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-orange?style=flat-square&logo=instagram)](https://www.instagram.com/rutika7376/)
+
+
 [![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-orange?style=for-the-badge&logo=instagram)](https://www.instagram.com/rutika7376/)
 
 ### 🤝 Open Source Contributions
