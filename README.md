@@ -24,6 +24,11 @@ I'm a recent graduate in BE-IT from smt. kashibai navale college of engineering,
 - Designed a user-friendly interface and collaborated with a team for testing and optimization..
 
 
+- [Excursion](https://github.com/WandhekarRutikaRajendra/Excursion): Small website using HTML and CSS.
+- [Project 2](https://github.com/[Your Username]/[Project Repository]): Short description of your project.
+<!-- Add more projects with descriptions -->
+
+
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rutika-wandhekar-45a38b220)
 
