@@ -23,10 +23,8 @@ I'm a recent graduate in BE-IT from smt. kashibai navale college of engineering,
 - Implemented OCR algorithms to extract and recognize text from images.
 - Designed a user-friendly interface and collaborated with a team for testing and optimization..
 
-
+**Excursion:**
 - [Excursion](https://github.com/WandhekarRutikaRajendra/Excursion): Small website using HTML and CSS.
-- [Project 2](https://github.com/[Your Username]/[Project Repository]): Short description of your project.
-<!-- Add more projects with descriptions -->
 
 
 ### 🌐 Connect with Me
