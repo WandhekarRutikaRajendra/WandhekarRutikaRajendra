@@ -11,7 +11,7 @@ I'm a recent graduate in BE-IT from smt. kashibai navale college of engineering,
 
 ### 💼 Technical Skills
 
-+ Programming Language: Java
++ Programming Language: Java, Springboot
 + Technologies: HTML, CSS
 + Database: SQL
 + Tools: Git, Github, Command Line(CLI)
