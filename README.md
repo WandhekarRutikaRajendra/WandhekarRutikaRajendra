@@ -12,7 +12,7 @@ I'm a recent graduate in BE-IT from smt. kashibai navale college of engineering,
 ### 💼 Technical Skills
 
 + Programming Language: Java
-+ Framework: Spring boot,bootstrap
++ Framework: Spring boot, bootstrap
 + Technologies: HTML, CSS
 + Database: SQL
 + Tools: Git, Github, Command Line(CLI)
